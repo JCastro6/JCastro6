@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hola 👋.
+
+### 🤔 Soy un Desarrollador en pro del desarrollo de mi propio aplicativo para el sector salud.
 
 <!--
-**JCastro6/JCastro6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**drakonc/drakonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
